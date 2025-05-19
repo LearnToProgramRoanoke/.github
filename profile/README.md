@@ -8,7 +8,7 @@
 
 Just keep in mind no active development has happened the past three years.
 
-This project has stalled due to the pandemic. Hope to resume activity again in 2023/2024.
+Noke Codes, Inc and all projects ended in 2024.  No further programs or development will be made. 
 
 <!--
 
