@@ -1,14 +1,11 @@
 ## Hi there 👋 Thanks for visiting!
 
-[Learn To Program Roanoke](https://learntoprogramroanoke.github.io/)
-
-🙋‍♀️ Visit the website if you'd like. Not much there, unfortunately.
+Noke Codes, Inc and all projects ended in 2024.  No further programs or development will be made. 
 
 🍿 The repositories do contain some useful code examples. Feel free to browse around. 
 
-Just keep in mind no active development has happened the past three years.
+No active development has happened the past four years.
 
-Noke Codes, Inc and all projects ended in 2024.  No further programs or development will be made. 
 
 <!--
 
